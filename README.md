@@ -99,20 +99,6 @@ The effectiveness of the models will be evaluated based on their ability to corr
 
 <div align="center"><img src="https://chartstatic.com/images/symbol_logos/meta.png" width="300"></div>
 
-\begin{table}[ht]
-\centering
-\begin{tabular}{|l|l|l|l|}
-\hline
-\textbf{Parameters size} & \textbf{Tuned versions} & \textbf{Intended platforms}               & \textbf{Preset}    \\ \hline
-7B                       & Pretrained              & Desktop computers and small servers       & llama3-7b          \\ \hline
-13B                      & Pretrained              & Desktop computers and small servers       & llama3-13b         \\ \hline
-30B                      & Pretrained              & Servers and high-end workstations         & llama3-30b         \\ \hline
-70B                      & Pretrained              & Servers and high-end workstations         & llama3-70b         \\ \hline
-\end{tabular}
-\caption{LLama3 Model Configurations}
-\label{tab:llama3_configurations}
-\end{table}
-
 
 **LLama3** is a collection of advanced open LLMs developed by Meta AI. They are built to provide state-of-the-art performance in a wide range of applications, from text generation to complex problem solving. **LLama3**  models are designed to be versatile, offering capabilities that can be fine-tuned for specific tasks, making them suitable for both research and production environments.
 
